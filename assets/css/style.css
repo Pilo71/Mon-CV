@@ -1,0 +1,89 @@
+.titre{
+   font-family: "Lato";
+   }
+   .color{
+     color: white;
+   }
+.fond{
+     background-color: #782221;
+     padding-bottom: 1px;
+   }
+   
+   .position{
+     padding-top: 25px;
+     text-align: center;
+   }
+.flex{
+      display: flex;
+   }
+   .large{
+      width: 350px;
+   }
+.photo{
+    width: 150px;
+    height: 150px;
+    
+    border-radius: 50%;
+    box-shadow: 0 0 30px black;
+    }
+.photo:hover{
+    cursor: zoom-in;
+        }
+.bas{
+   
+   border-top-width: 8px;
+   border-style: solid;
+   border-color: #2c1d27;
+}
+.decoration{
+    text-decoration: none;
+    }
+.decoration:hover{
+    text-decoration:underline;
+}
+ .bordure{padding-left: 25px;
+    background-color: #dbc2a4;
+ }
+ .proportion{   
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-bottom: 25px;
+    text-indent: 10px;
+ }
+ .taille{
+    width: 40px;
+    padding-right: 10px;
+     }
+.gras{
+    font-weight: bold;
+   } 
+.sombre:hover{
+      filter: brightness(50%);
+   } 
+    
+       
+        
+    
+    
+       
+    
+
+
+
+
+
+
+
+    
+    
+ 
+ 
+    
+ 
+ 
+ 
+
+ 
+
+ 
+
