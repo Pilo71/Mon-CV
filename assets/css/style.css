@@ -37,7 +37,7 @@ article {
 
 div {
    width: 800px;
-   padding-left: 30px;
+
 }
 
 div h3:hover {
@@ -61,6 +61,7 @@ div h3:hover {
 
 .largeur {
    width: 400px;
+   margin-right: 20px;
 }
 
 .position {
@@ -70,11 +71,12 @@ div h3:hover {
 
 .flex {
    display: flex;
-   padding: 0px;
+
 }
 
 .large {
    width: 350px;
+   padding-top: 10px;
 }
 
 .photo {
@@ -127,4 +129,9 @@ div h3:hover {
 
 .sombre:hover {
    filter: brightness(50%);
+}
+
+nav {
+   padding-bottom: 10px;
+
 }
